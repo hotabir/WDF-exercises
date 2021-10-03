@@ -1,0 +1,62 @@
+.header 
+{
+    display: block;
+    font-size: 32px;
+    font-weight: 700;
+    width: 40%;
+    margin: auto;
+    padding: 16px;
+    background-color: #ffff;
+    border-top: solid;
+    border-top-width: 1px;
+    border-color: black;
+    border-bottom: solid;
+    border-bottom-width: 1px;
+}
+
+.headerPieni
+{
+    display: block;
+    font-size: 0;
+    font-weight: 700;
+    width: 40%;
+    margin: auto;
+    padding: 16px;
+    background-color: #ffff;
+}
+
+.label
+{
+    padding: 16px 0 0 2px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.image
+{
+    max-height: 100%;
+    width: 100%;
+}
+
+.containerHeader 
+{
+    font-size: 26px;
+    font-weight: 700;
+    color: #00518d;
+}
+
+.container
+{
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1,15;
+    width: 100%;    
+}
+
+.containerPieni
+{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1,15;
+    width: 100%;    
+}

@@ -1,0 +1,12 @@
+.header {
+    font-size:  18px;
+    font-weight: 700;    
+}
+.container {
+    background-color: #4196a4;
+    color: white;
+    padding: 20px;
+    align-items: center;
+    width: 60%;
+    margin: 12px auto 8px auto;
+}
